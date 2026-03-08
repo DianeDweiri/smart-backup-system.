@@ -1,0 +1,16 @@
+{
+  "source_folder": "OneDrive/Desktop/Luminode",
+  "backup_folder": "OneDrive/Desktop/Backups",
+  "log_folder": "OneDrive/Desktop/BackupReports",
+
+  "email": {
+    "sender": "your_email@gmail.com" ,
+    "receiver": "receiver@gmail.com",
+    "password": "your_app_password",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587
+
+  },
+
+  "schedule_days": 7
+}
